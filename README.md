@@ -1,4 +1,4 @@
-<h1 align="center">`🔴🟢🟡 Rapid.exe —⠀❐⠀⤬`</h1>
+<h1 align="center">🔴🟢🟡 Rapid.exe —⠀❐⠀⤬</h1>
 <h3 align="center">Game Developer and Song Producer born and based in England</h3>
 
 - 🌱 I’m currently learning **game development and programming**
