@@ -1,5 +1,5 @@
 # 💫 About Me:
-Developer and Full-Stack Engineer studying Game Development
+Developer and Full-Stack Engineer studying Computer Science
 
 
 # 💻 Tech Stack:
